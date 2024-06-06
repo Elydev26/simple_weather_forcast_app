@@ -8,7 +8,7 @@
 }
 
 .container {
-    background: #171717;
+    background: #8a65d5;
     color: #fff;
     padding: 2rem;
     width: 40%;
@@ -40,11 +40,11 @@ input::placeholder {
 }
 
 .weather__search i {
-    position: absolute;
-    left: 10px;
-    top: 10px;
+    position: relative;
+    left: 5px;
+    top: 5px;
     font-size: 15px;
-    color: #fff;
+    color: #413b5e;
 }
 
 .weather__units {
@@ -104,7 +104,7 @@ input::placeholder {
 .weather__card {
     display: flex;
     align-items: center;
-    background: #1e1e1e;
+    background: #3a1c50;
     padding: 1rem;
     border-radius: 10px;
 }
